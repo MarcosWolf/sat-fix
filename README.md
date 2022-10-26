@@ -1,8 +1,4 @@
-# satfix
-Corrigir problema de transação com SAT fiscal via SSH com shell.
-
-Desenvolvido por: Marcos Vinícios do Carmo Ramos
-Data: 14/09/2020
+# SAT-fix
 
 Corrigir problema de transação com SAT fiscal via SSH com shell.
 Compatibilidade: Elgin Linker II, Smart Elgin, Tanca.
